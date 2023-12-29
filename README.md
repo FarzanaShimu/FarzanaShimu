@@ -56,6 +56,6 @@ I am a computer science graduate and a passionate problem solver who would like 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ## Contribution
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smn06&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&sideLabels=DDDDDD&dates=DDDDDD&currStreakLabel=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farzanashimu&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&sideLabels=DDDDDD&dates=DDDDDD&currStreakLabel=DD2727)](https://git.io/streak-stats)
 
 
